@@ -7,7 +7,7 @@ Ing.Karens Lorena Medrano <br>
 <br>
 **Integrantes**<br>
 Rodirgo Alberto Beltran Reyes BR200730 <br>
-Gabriel Alejandro Diaz Valendia DV201086 <br>
+Gabriel Alejandro Diaz Valencia DV201086 <br>
 Mario Ernesto Medina Martínez MM201254 <br>
 <br>
 **Descripcion** <br>
