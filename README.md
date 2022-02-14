@@ -8,7 +8,7 @@ Ing.Karens Lorena Medrano <br>
 **Integrantes**<br>
 Rodirgo Alberto Beltran Reyes BR200730 <br>
 Gabriel Alejandro Diaz Valendia DV201086 <br>
-Mario Ernesto Medina Martoinez MM201254 <br>
+Mario Ernesto Medina Martínez MM201254 <br>
 <br>
 **Descripcion** <br>
 En el siguiente repositorio se le da a conocer la investigacion que hemos realizado sobre  <br>
